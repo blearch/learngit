@@ -1,4 +1,1 @@
-git is a free system
-
-it is very good
-add append
+这是一个练手的小项目js
